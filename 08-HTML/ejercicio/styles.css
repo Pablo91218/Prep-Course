@@ -1,0 +1,36 @@
+body{
+    background-image: 
+    url("https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg");
+   
+    }
+
+div{
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 , h3 , h4{
+    color: aqua;
+}
+
+#thirdDiv {
+
+    height: 600px;
+    width: 500px;
+    color: rgb(233, 37, 12);
+    padding: 50px;
+    background-color: aqua;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+}
+
+#spanId {
+    font-size: 18px;
+    color: aqua;
+}
+
+ul , li {
+    text-align: center;
+}
